@@ -9,6 +9,7 @@
 <body>
 	<center>
 		<h1>Git Hub Project</h1>
+		<h2>Hello World</h2>
 	</center>
 </body>
 </html>
